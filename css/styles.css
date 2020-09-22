@@ -1,0 +1,10 @@
+.container{
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.box{
+  text-align: center;
+  background-color: pink;
+  padding:15px;
+}
